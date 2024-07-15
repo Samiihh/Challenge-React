@@ -1,0 +1,70 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "E1 - Surge Naruto Uzumaki!",
+        "descricao": "Bem-vindo à Vila Secreta da Folha, onde ninjas mortíferos vagam pela terra e o endiabrado Naruto Uzumaki causa problemas aonde quer que vá.",
+        "capa": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/ea976df50bf201db97c78c2e2ed72f64.jpe" ,
+        "link": "https://youtu.be/AhG2dKqunLQ?si=AyG4OZ0GlG6dzuSY",
+        "categoria": "T1: Naruto Season 1"
+      },
+      {
+        "id": 2,
+        "titulo": "E2 - Meu Nome é Konohamaru!",
+        "descricao": "Naruto finalmente se forma na Academia Ninja e já acha que sabe tudo.",
+        "capa":"https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/1e6648f8636de8fd224e3aa9b1901f3e.jpe",
+        "link": "https://www.crunchyroll.com/pt-br/watch/GYP8130KY/my-name-is-konohamaru",
+        "categoria": "T1: Naruto Season 1"
+      },
+      {
+        "id": 3,
+        "titulo": "E3 - Sasuke e Sakura: Amigos ou Inimigos?",
+        "descricao": "Para poder se tornar um ninja de verdade, Naruto precisa formar uma equipe com seus colegas, a bela Sakura e o sisudo Sasuke..",
+        "capa":"https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/732076f3b53c9eecc4e21002c1668a1f.jpe",
+        "link": "https://www.crunchyroll.com/pt-br/watch/GR8VJQ0WR/sasuke-and-sakura-friends-or-foes",
+        "categoria": "T1: Naruto Season 1"
+      },
+      {
+       "id": 4,
+        "titulo": "E4 - Passar ou Falhar: Teste de Sobrevivência",
+        "descricao": "Agora que Naruto, Sasuke e Sakura são um time, eles se reúnem com seu professor, o enigmático e distraído Kakashi.",
+        "capa":"https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/628eda0744f33b26eb2109ee7d86217b.jpe",
+        "link": "https://www.crunchyroll.com/pt-br/watch/G6DQ4M3KR/pass-or-fail-survival-test",
+        "categoria": "T1: Naruto Season 1"
+      },
+      {
+        "id": 5,
+        "titulo": "E1 - De Volta para Casa",
+        "descricao":"Alguém passa pelos portões. E ele está mais velho, é um renovado Naruto que volta para casa depois de uma longa jornada de treinos com Jiraiya. Uzumaki Naruto está de volta!",
+        "capa": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/f6edc43fdd35d99fbe8e6f794717cf38.jpe",
+        "link": "https://www.crunchyroll.com/pt-br/watch/GRWEX4QMR/homecoming",
+        "categoria": "T1: Naruto Shippuden: The Kazekage's Rescue"
+      },
+      {
+        "id": 6,
+        "titulo": "E2 - A Akatsuki faz Seu Movimento",
+        "descricao":"Naruto e Sakura se unem para enfrentar Kakashi em um desafio de sobrevivência para mostrar o progresso de seu treinamento.",
+        "capa":"https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/bdebebfb7d270245650571cdd68dc92c.jpe",
+        "link": "https://www.crunchyroll.com/pt-br/watch/G609QX2G6/the-akatsuki-makes-its-move",
+        "categoria": "T1: Naruto Shippuden: The Kazekage's Rescue"
+      },
+      {
+        "id": 7,
+        "titulo": "E3 - Os Resultados do Treinamento",
+        "descricao":"Naruto e Sakura combinam suas habilidades, o que obriga Kakashi a usar seu Sharingan logo de cara. Mais forte, Naruto executa com maestria seus jutsus um após o outro.",
+        "capa": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/8f03fbd4182a5eb371479b6b059d308e.jpe",
+        "link": "https://www.crunchyroll.com/pt-br/watch/G67529ZMR/the-results-of-training",
+        "categoria": "T1: Naruto Shippuden: The Kazekage's Rescue"
+      },
+      {
+        "id": 8,
+        "titulo": "E4 - O Jinchuuriki da Areia",
+        "descricao":"Gaara percebe rapidamente a presença de Deidara, resultando numa incrível batalha nos céus entre Deidara em seu pássaro gigante e Gaara sobre sua areia.",
+        "capa":"https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=70,width=800,height=450/catalog/crunchyroll/d1286c017c1eb9ce6ebf55f33e6c03d0.jpe",
+        "link": "https://www.crunchyroll.com/pt-br/series/GYQ4MW246/naruto-shippuden",
+        "categoria": "T1: Naruto Shippuden: The Kazekage's Rescue"
+      }
+      
+    ]
+  }
+  
